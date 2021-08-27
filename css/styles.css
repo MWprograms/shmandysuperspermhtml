@@ -1,0 +1,49 @@
+body {
+  background-color: #e3dfc8;
+  font-family: papyrus;
+}
+
+a img:last-child {
+  display: none;
+}
+
+a:hover img:last-child {
+  display: block;
+}
+
+a:hover img:first-child {
+  display: none;
+}
+
+table {
+  background-color: white;
+}
+
+h1 {
+  font-size: 420%;
+  font-family: Curlz MT;
+  color: #c10000;
+}
+
+h2 {
+  font-size: 180%;
+  font-family: Curlz MT;
+  color: #c10000;
+}
+
+h3 {
+  font-family: Curlz MT;
+  color: #c10000;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: thick;
+  color: #c10000;
+  width: 40px;
+}
+
+.circular {
+  border-radius: 100%;
+}
